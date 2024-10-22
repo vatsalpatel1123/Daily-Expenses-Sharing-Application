@@ -160,65 +160,37 @@ http://localhost:5000/api/expenses/user/vatsal.private@gmail.com
 
 ## Postman API Setup - Screenshots
 
-<div style="display: flex; flex-wrap: wrap;">
+<table>
+  <tr>
+    <td><img src="Screenshots/1.png" alt="Screenshot 1" width="100%"/></td>
+    <td><img src="Screenshots/2.png" alt="Screenshot 2" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/3.png" alt="Screenshot 3" width="100%"/></td>
+    <td><img src="Screenshots/4.png" alt="Screenshot 4" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/5.png" alt="Screenshot 5" width="100%"/></td>
+    <td><img src="Screenshots/6.png" alt="Screenshot 6" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/7.png" alt="Screenshot 7" width="100%"/></td>
+    <td><img src="Screenshots/8.png" alt="Screenshot 8" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/9.png" alt="Screenshot 9" width="100%"/></td>
+    <td><img src="Screenshots/10.png" alt="Screenshot 10" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/11.png" alt="Screenshot 11" width="100%"/></td>
+    <td><img src="Screenshots/12.png" alt="Screenshot 12" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/13.png" alt="Screenshot 13" width="100%"/></td>
+    <td><img src="Screenshots/14.png" alt="Screenshot 14" width="100%"/></td>
+  </tr>
+</table>
 
-  <div style="flex: 50%; padding: 10px;">
-    <img src="Screenshots/1.png" alt="Screenshot 1" width="100%"/>
-  </div>
-
-  <div style="flex: 50%; padding: 10px;">
-    <img src="Screenshots/2.png" alt="Screenshot 2" width="100%"/>
-  </div>
-
-  <div style="flex: 50%; padding: 10px;">
-    <img src="Screenshots/3.png" alt="Screenshot 3" width="100%"/>
-  </div>
-
-  <div style="flex: 50%; padding: 10px;">
-    <img src="Screenshots/4.png" alt="Screenshot 4" width="100%"/>
-  </div>
-
-  <div style="flex: 50%; padding: 10px;">
-    <img src="Screenshots/5.png" alt="Screenshot 5" width="100%"/>
-  </div>
-
-  <div style="flex: 50%; padding: 10px;">
-    <img src="Screenshots/6.png" alt="Screenshot 6" width="100%"/>
-  </div>
-
-  <div style="flex: 50%; padding: 10px;">
-    <img src="Screenshots/7.png" alt="Screenshot 7" width="100%"/>
-  </div>
-
-  <div style="flex: 50%; padding: 10px;">
-    <img src="Screenshots/8.png" alt="Screenshot 8" width="100%"/>
-  </div>
-
-  <div style="flex: 50%; padding: 10px;">
-    <img src="Screenshots/9.png" alt="Screenshot 9" width="100%"/>
-  </div>
-
-  <div style="flex: 50%; padding: 10px;">
-    <img src="Screenshots/10.png" alt="Screenshot 10" width="100%"/>
-  </div>
-
-  <div style="flex: 50%; padding: 10px;">
-    <img src="Screenshots/11.png" alt="Screenshot 11" width="100%"/>
-  </div>
-
-  <div style="flex: 50%; padding: 10px;">
-    <img src="Screenshots/12.png" alt="Screenshot 12" width="100%"/>
-  </div>
-
-  <div style="flex: 50%; padding: 10px;">
-    <img src="Screenshots/13.png" alt="Screenshot 13" width="100%"/>
-  </div>
-
-  <div style="flex: 50%; padding: 10px;">
-    <img src="Screenshots/14.png" alt="Screenshot 14" width="100%"/>
-  </div>
-
-</div>
 
 ## PDF Sample of Balance Sheet:
 
@@ -234,6 +206,14 @@ http://localhost:5000/api/expenses/user/vatsal.private@gmail.com
 - **Notifications**: Send email or SMS notifications when new expenses are added.
 
 - **Debt Settlements**: Introduce a system to track and settle debts between participants.
+
+
+## Acknowledgment and Appreciation
+
+I would like to express my sincere gratitude to Convin.ai for assigning me the task. I appreciate the opportunity to work on this assignment, and I am pleased to inform you that I completed it within the given timeframe.
+
+Thank you for your support and guidance throughout the process!
+
 
 ## Contact
 - If you have any questions or suggestions, feel free to reach out:
