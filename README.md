@@ -220,6 +220,7 @@ Thank you for your support and guidance throughout the process!
 
 - Author: Vatsal Patel
 - Email: iamvatsallpatell@gmail.com
+         vatsal.private@gmail.com
 
 
 
